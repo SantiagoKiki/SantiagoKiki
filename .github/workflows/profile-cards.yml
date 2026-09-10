@@ -26,7 +26,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: SantiagoKiki
-          options: bg_color=0D1117&color=0A66C2&line=0A66C2&point=FFFFFF&area=true&hide_border=true&days=360
+          options: bg_color=0D1117&color=0A66C2&line=0A66C2&point=FFFFFF&area=true&hide_border=true
           output_path: profile/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
