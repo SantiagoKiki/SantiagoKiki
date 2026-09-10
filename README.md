@@ -4,10 +4,6 @@
 Ingeniería de Sistemas · Arquitectura de Software & DevOps
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SantiagoKiki&label=Visitas&color=0A66C2&style=flat" alt="visitas al perfil" />
-</p>
-
 ---
 
 ### Sobre mí
