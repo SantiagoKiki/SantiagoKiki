@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Kiki 👋</h1>
+<h1 align="center">Hola, soy Kiki</h1>
 
 <p align="center">
 Ingeniería de Sistemas · Arquitectura de Software & DevOps
