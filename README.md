@@ -52,19 +52,6 @@ Ingeniería de Sistemas · Arquitectura de Software & DevOps
 </p>
 
 ---
-
-### 📊 Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SantiagoKiki&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <i>Construyendo sistemas, un contenedor a la vez 🐳</i>
 </p>
