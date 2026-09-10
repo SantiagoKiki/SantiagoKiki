@@ -44,26 +44,8 @@ Ingeniería de Sistemas · Arquitectura de Software & DevOps
 
 ---
 
-### Actividad de commits
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoKiki&theme=react-dark&color=0A66C2&line=0A66C2&point=FFFFFF&area=true&hide_border=true" alt="gráfico de actividad" />
-</p>
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoKiki&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoKiki&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Construyendo sistemas, un contenedor a la vez 🐳</i>
-</p>
+Actividad de commits
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoKiki&bg_color=0D1117&color=0A66C2&line=0A66C2&point=FFFFFF&area=true&hide_border=true" alt="gráfico de actividad" /> </p>
+Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SantiagoKiki&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=SantiagoKiki&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" /> </p>
+<p align="center"> <i>Construyendo sistemas, un contenedor a la vez 🐳</i> </p>
