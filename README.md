@@ -1,16 +1,22 @@
-<h1 align="center">Hola, soy Santiago</h1>
+<h1 align="center">Hola, soy Santiago </h1>
 
 <p align="center">
 Ingeniería de Sistemas · Arquitectura de Software & DevOps
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SantiagoKiki&label=Visitas&color=0A66C2&style=flat" alt="visitas al perfil" />
+</p>
+
 ---
 
-### Sobre mí
+### 🧭 Sobre mí
 
-- Estudiante de Ingeniería de Sistemas
-- Enfocado en **arquitectura de software** y **DevOps**: contenedores, orquestación e infraestructura como código
-- Trabajando con Kubernetes, AWS y Terraform para desplegar sistemas distribuidos
+- 🎓 Estudiante de Ingeniería de Sistemas
+- 🧑‍🏫 Monitor de curso de tecnologías web
+- 🏗️ Enfocado en **arquitectura de software** y **DevOps**: contenedores, orquestación e infraestructura como código
+- ☁️ Trabajando con Kubernetes, AWS y Terraform para desplegar sistemas distribuidos
+- 🔬 Tesis sobre Dask y arquitecturas NUMA para workflows científicos
 
 ---
 
@@ -38,14 +44,32 @@ Ingeniería de Sistemas · Arquitectura de Software & DevOps
 
 ---
 
-### Habilidades
+### 🧩 Habilidades
 
-`Arquitectura de Software` · `Microservicios` · `Infraestructura como Código` · `CI/CD` · `Sistemas Distribuidos`
+`Arquitectura de Software` · `Microservicios` · `Arquitectura Hexagonal` · `Infraestructura como Código` · `CI/CD` · `Sistemas Distribuidos`
 
 ---
 
-Actividad de commits
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoKiki&bg_color=0D1117&color=0A66C2&line=0A66C2&point=FFFFFF&area=true&hide_border=true" alt="gráfico de actividad" /> </p>
-Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SantiagoKiki&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=SantiagoKiki&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" /> </p>
-<p align="center"> <i>Construyendo sistemas, un contenedor a la vez 🐳</i> </p>
+### 📈 Actividad de commits
+
+<p align="center">
+  <img src="./profile/activity-graph.svg" alt="gráfico de actividad" />
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SantiagoKiki&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Construyendo sistemas, un contenedor a la vez 🐳</i>
+</p>
