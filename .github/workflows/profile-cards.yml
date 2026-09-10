@@ -1,0 +1,39 @@
+name: Actualizar tarjetas del perfil
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # se regenera cada día a las 3am UTC
+  workflow_dispatch: # también la puedes correr manualmente desde la pestaña Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar tarjeta de stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=SantiagoKiki&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&bg_color=0D1117
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generar gráfico de actividad
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: SantiagoKiki
+          options: bg_color=0D1117&color=0A66C2&line=0A66C2&point=FFFFFF&area=true&hide_border=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commitear tarjetas generadas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Actualizar tarjetas del perfil" || exit 0
+          git push
