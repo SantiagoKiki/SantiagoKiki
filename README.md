@@ -10,10 +10,8 @@ Ingeniería de Sistemas · Arquitectura de Software & DevOps
 ### 🧭 Sobre mí
 
 - 🎓 Estudiante de Ingeniería de Sistemas
-- 🧑‍🏫 Monitor de curso de tecnologías web
 - 🏗️ Enfocado en **arquitectura de software** y **DevOps**: contenedores, orquestación e infraestructura como código
 - ☁️ Trabajando con Kubernetes, AWS y Terraform para desplegar sistemas distribuidos
-- 🔬 Tesis sobre Dask y arquitecturas NUMA para workflows científicos
 
 ---
 
